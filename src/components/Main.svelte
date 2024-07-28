@@ -68,7 +68,7 @@
                 </p>
             </Step>
 
-            <Step step={steps[2]} githubLink="https://github.com/RohanSaxena2020/LLM-Project" liveLink="#">
+            <Step step={steps[2]} githubLink="https://github.com/RohanSaxena2020/LLM-Project" liveLink="https://www.loom.com/share/dd76439a2803409da616f1ce00f77701?sid=5bc5703b-ab43-4f00-917b-6a12f398e294">
                 <p>
                     This is a <strong class="text-violet-400">custom built LLM</strong> that allows my CEO to ask questions about the marketing data.
                     It then turns those questions into custom SQL queries and pulls the response from the <strong class="text-violet-400">MySQL database.</strong> 
