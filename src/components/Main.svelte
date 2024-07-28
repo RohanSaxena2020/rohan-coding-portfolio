@@ -53,7 +53,7 @@
         </div>
 
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-10">
-            <Step step={steps[0]} githubLink="https://github.com/RohanSaxena2020/sales-coach-ai-v3" liveLink="#">
+            <Step step={steps[0]} githubLink="https://github.com/RohanSaxena2020/sales-coach-ai-v3" liveLink="https://www.loom.com/share/767b108929b640c2b6f9b87616db2941?sid=fab551e3-2c73-49c0-a2d5-c3a5dcffdc9b">
                 <p>
                     This is a <strong class="text-violet-400">full-stack</strong> app 
                     which allows users to upload sales call transcripts and received expert coaching from AI. 
@@ -61,7 +61,7 @@
                 </p>
             </Step>
 
-            <Step step={steps[1]} githubLink="https://github.com/RohanSaxena2020/PGA-tour-ai-v2" liveLink="#">
+            <Step step={steps[1]} githubLink="https://github.com/RohanSaxena2020/PGA-tour-ai-v2" liveLink="https://www.loom.com/share/50ade50370ab45d1862c03b4e094369f?sid=9729960e-7b01-4e11-b6a1-8dab970d8c0b">
                 <p>
                     The project takes in statistics on a golfer's driving, iron play, short game, and putting and outputs 
                     a predicted scoring average using a <strong class="text-violet-400">linear regression model</strong> trained on PGA tour data (from their website).
