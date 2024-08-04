@@ -61,7 +61,7 @@
                 </p>
             </Step>
 
-            <Step step={steps[1]} githubLink="https://github.com/RohanSaxena2020/PGA-tour-ai-v2" liveLink="https://www.loom.com/share/50ade50370ab45d1862c03b4e094369f?sid=9729960e-7b01-4e11-b6a1-8dab970d8c0b">
+            <Step step={steps[1]} githubLink="https://github.com/RohanSaxena2020/PGA-tour-ai-v2" liveLink="https://pga-tour-ai-v-2-rohan75.replit.app/">
                 <p>
                     The project takes in statistics on a golfer's driving, iron play, short game, and putting and outputs 
                     a predicted scoring average using a <strong class="text-violet-400">linear regression model</strong> trained on PGA tour data (from their website).
