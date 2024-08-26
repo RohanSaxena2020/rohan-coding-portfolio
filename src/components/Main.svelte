@@ -53,13 +53,11 @@
         </div>
 
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-10">
-            <Step step={steps[0]} githubLink="https://github.com/RohanSaxena2020/sales-coach-ai-v3" liveLink="https://www.loom.com/share/767b108929b640c2b6f9b87616db2941?sid=fab551e3-2c73-49c0-a2d5-c3a5dcffdc9b">
+            <Step step={steps[0]} githubLink="https://github.com/RohanSaxena2020/sales-coach-ai-v3" liveLink="https://sales-coach-ai-v-5-rohan75.replit.app/">
                 <p>
                     This is a <strong class="text-violet-400">full-stack</strong> app 
                     which allows users to upload sales call transcripts and received expert coaching from AI. 
                     With the ability to login and see previous submissions!
-
-                    Live link: https://sales-coach-ai-v-5-rohan75.replit.app/
                 </p>
             </Step>
 
