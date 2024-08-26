@@ -58,6 +58,8 @@
                     This is a <strong class="text-violet-400">full-stack</strong> app 
                     which allows users to upload sales call transcripts and received expert coaching from AI. 
                     With the ability to login and see previous submissions!
+
+                    Live link: https://sales-coach-ai-v-5-rohan75.replit.app/
                 </p>
             </Step>
 
